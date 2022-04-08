@@ -9,7 +9,7 @@ startTime = datetime.now()
 
 
 
-filename = "model.sv"
+filename = "05/model.sv"
 model = pickle.load(open(filename,'rb'))
 # otwieramy wcześniej wytrenowany model
 
