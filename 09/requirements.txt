@@ -1,0 +1,6 @@
+fastai==2.5.3
+streamlit==0.85.0
+pathy==0.6.0
+pathspec==0.7.0
+pathtools==0.1.2
+
